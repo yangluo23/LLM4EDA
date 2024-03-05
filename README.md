@@ -11,11 +11,11 @@
 * [Video: GPT-1, 2, 3](https://www.bilibili.com/video/BV1AF411b7xQ/?spm_id_from=333.999.0.0&vd_source=2b905b37d387b9f810c2a9e64d914140)
 * [Zhihu: Why has the Decoder-only arch become the mainstream?](https://www.zhihu.com/question/588325646/answer/3357252612)
 #### Papers
-* [Casual Decoder only: GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-* [Non-casual Decoder only: Yuan 1.0](https://arxiv.org/pdf/2110.04725.pdf)
-* [Encoder-Decoder: Transformer](https://arxiv.org/pdf/1706.03762.pdf)
-* [Encoder only: Bert](https://arxiv.org/pdf/1810.04805.pdf)
-* [What LM Architecture and Pretraining objective Work Best for Zero-Shot Generalization](https://arxiv.org/abs/2204.05832)
+* Language Models are Unsupervised Multitask Learners. [[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)][[Code](https://github.com/openai/gpt-2)]
+* Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning. [[Paper](https://arxiv.org/abs/2110.04725)][[Code](https://github.com/Shawn-IEITSystems/Yuan-1.0)]
+* `NIPS2017` Attention Is All You Need. [[Paper](https://arxiv.org/abs/1706.03762)][[Code](https://github.com/tensorflow/tensor2tensor)]
+* `11 Oct 2018 arxiv` BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. [[Paper](https://arxiv.org/abs/1810.04805)][[Code](https://github.com/google-research/bert)]
+* `ICML22` What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? [[Paper](https://arxiv.org/abs/2204.05832)][[Code](https://github.com/bigscience-workshop/architecture-objective)]
 
 ### Tokenizer
 
@@ -27,9 +27,9 @@
 * [Hugging face NLP Course Chapter6](https://huggingface.co/learn/nlp-course/chapter6/1?fw=pt)
 
 #### Papers
-* [BPE](https://arxiv.org/abs/1508.07909)
-* [WordPiece](https://arxiv.org/abs/1810.04805)
-* [Unigram](https://arxiv.org/abs/1804.10959)
+* `ACL2016` Neural Machine Translation of Rare Words with Subword Units. [[Paper](https://arxiv.org/abs/1508.07909)]
+* `26 Sep 2016 arxiv` Google’s neural machine translation system: Bridging the gap between human and machine translation. [[Paper](https://arxiv.org/abs/1609.08144)]
+* `ACL2018` Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates. [[Paper](https://arxiv.org/abs/1804.10959)]
 
 #### Others
 * [1hr Talk: Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g)
